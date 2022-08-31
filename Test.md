@@ -1,7 +1,7 @@
 ---
 title: "My Website"
 permalink: /
-layout: default
+theme: "Architect"
 ---
 
 # Test
