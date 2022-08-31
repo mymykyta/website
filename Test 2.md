@@ -1,5 +1,5 @@
 ---
-permalink:/test
+permalink: /test
 ---
 
 Referenced in [[Test]].
